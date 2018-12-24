@@ -1,7 +1,32 @@
 .coming_soon h1{
-
+	margin-top: 30vh;
+    font-family: 'Josefin Sans', sans-serif;
+    z-index: 1000;
+    font-size: 6em;
 }
 
 .coming_soon img{
-	
+	z-index:-5;
 }
+
+.header_text{
+	width: 30vw;
+    color: #fff;
+    float:left;
+}
+
+body{
+	background-color:#333 !important;
+}
+
+.coming_soon .row{
+	margin-right: 3vw;
+    margin-left: 3vw;
+}
+
+/*
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'ZCOOL KuaiLe', cursive;
+font-family: 'Itim', cursive;
+font-family: 'Schoolbell', cursive;
+*/
