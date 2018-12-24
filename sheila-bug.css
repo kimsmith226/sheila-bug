@@ -20,8 +20,8 @@ body{
 }
 
 .coming_soon .row{
-	margin-right: 3vw;
-    margin-left: 3vw;
+	margin-right: 3vw !important;
+    margin-left: 3vw !important;
 }
 
 /*
