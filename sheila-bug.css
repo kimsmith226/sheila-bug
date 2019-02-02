@@ -5,6 +5,11 @@
     text-align: right;
 }
 
+
+.col-lg-6 img{
+    padding:5%;
+}
+
 .home h3{
     font-size: 3em;
     text-align: right;
